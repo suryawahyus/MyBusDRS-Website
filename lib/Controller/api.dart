@@ -1,1 +1,1 @@
-const String googleMapApi = "AIzaSyAondSbxdonAM0iauhJmPDppDXCUa8pRH0";
+const String googleMapApi = "";
